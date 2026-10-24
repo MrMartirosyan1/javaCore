@@ -10,7 +10,7 @@ public class Homework1 {
         } else if (y > x){
             System.out.println("y mec e x");
         } else {
-          System.out.println( "x ev y havas en");
+          System.out.println( "x ev y havasar en");
         }
 
         for (int i = 1; i <= 5; i++){
