@@ -1,6 +1,6 @@
 package homework;
 
-public class Homework4 {
+public class ArrayHomework {
 
         public static void main(String[] args) {
 
