@@ -1,6 +1,6 @@
 package homework;
 
-public class Homework5 {
+public class ArraySortingHomework {
 
         public static void main(String[] args) {
 
